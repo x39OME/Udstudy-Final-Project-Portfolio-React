@@ -7,6 +7,7 @@ function MainFooter(){
       <div className="container">
         <div className="opening">
           <h3>Opening Hours</h3>
+          
           <div className="day">
             <span> Saturday *</span>
             <span className="line-span"></span>
