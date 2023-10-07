@@ -3,7 +3,7 @@
 
 ## Final Project 
 ### Portfolio
-  [Portfolio](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206/Final%20Project/1-portfolio-ustudy-final-project)
+  - [Portfolio](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206/Final%20Project/1-portfolio-ustudy-final-project)
     ```
       ● Create a Website Using ReactJs (Porfoilo)
     ```
